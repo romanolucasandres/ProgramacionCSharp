@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{450594B9-2477-42D7-83E2-AF4948529F00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{450594B9-2477-42D7-83E2-AF4948529F00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImprimirLeyenda", "ImprimirLeyenda\ImprimirLeyenda.csproj", "{4F051F69-5BC6-4F2C-9F6C-344D3E49D240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImprimirLeyenda", "ImprimirLeyenda\ImprimirLeyenda.csproj", "{4F051F69-5BC6-4F2C-9F6C-344D3E49D240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PedirNumeroMostrar", "PedirNumeroMostrar\PedirNumeroMostrar.csproj", "{F6789F7D-34EF-41FC-B15B-18387F7293F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PedirNumeroMostrar", "PedirNumeroMostrar\PedirNumeroMostrar.csproj", "{F6789F7D-34EF-41FC-B15B-18387F7293F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayorDeDosNumeros", "MayorDeDosNumeros\MayorDeDosNumeros.csproj", "{FB483917-47EC-490C-97A8-6CDA8A141176}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MayorDeDosNumeros", "MayorDeDosNumeros\MayorDeDosNumeros.csproj", "{FB483917-47EC-490C-97A8-6CDA8A141176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MayorDeTres", "MayorDeTres\MayorDeTres.csproj", "{19B63EBA-3892-4FE6-BF8E-EF42C5CA2124}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MayorDeTres", "MayorDeTres\MayorDeTres.csproj", "{19B63EBA-3892-4FE6-BF8E-EF42C5CA2124}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnoACien", "UnoACien\UnoACien.csproj", "{B2F026F5-B6AF-4A72-A1F4-581F29BE255F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnoACien", "UnoACien\UnoACien.csproj", "{B2F026F5-B6AF-4A72-A1F4-581F29BE255F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaPrimerosCien", "SumaPrimerosCien\SumaPrimerosCien.csproj", "{03501800-5E58-49AD-B098-B4F993626A5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumaPrimerosCien", "SumaPrimerosCien\SumaPrimerosCien.csproj", "{03501800-5E58-49AD-B098-B4F993626A5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParImpar", "ParImpar\ParImpar.csproj", "{198D7E98-EB28-4227-8462-422AFAB2354A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParImpar", "ParImpar\ParImpar.csproj", "{198D7E98-EB28-4227-8462-422AFAB2354A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promedio", "Promedio\Promedio.csproj", "{5B28A8B0-5813-4BAE-B246-7531AF692A6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Promedio", "Promedio\Promedio.csproj", "{5B28A8B0-5813-4BAE-B246-7531AF692A6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sueldo", "Sueldo\Sueldo.csproj", "{8097FAAF-3295-4A02-9D5D-00564A5B8E20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{5B28A8B0-5813-4BAE-B246-7531AF692A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B28A8B0-5813-4BAE-B246-7531AF692A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B28A8B0-5813-4BAE-B246-7531AF692A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8097FAAF-3295-4A02-9D5D-00564A5B8E20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8097FAAF-3295-4A02-9D5D-00564A5B8E20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8097FAAF-3295-4A02-9D5D-00564A5B8E20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8097FAAF-3295-4A02-9D5D-00564A5B8E20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
